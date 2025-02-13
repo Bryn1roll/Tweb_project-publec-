@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Trezvostb1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|c:\\users\\user\\desktop\\trezvostb1\\trezvostbvladproject\\views\\alex\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|solutionrelative:trezvostbvladproject\\views\\alex\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|C:\\Users\\User\\Desktop\\Trezvostb1\\trezvostbvladproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|solutionrelative:trezvostbvladproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|C:\\Users\\User\\Desktop\\Trezvostb1\\trezvostbvladproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|solutionrelative:trezvostbvladproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|C:\\Users\\User\\Desktop\\Trezvostb1\\trezvostbvladproject\\controllers\\alexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|solutionrelative:trezvostbvladproject\\controllers\\alexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|c:\\users\\user\\desktop\\trezvostb1\\trezvostbvladproject\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|solutionrelative:trezvostbvladproject\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|c:\\users\\user\\desktop\\trezvostb1\\trezvostbvladproject\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E47F801-3905-4CA5-BCE9-85E6B7CEBF63}|TrezvostbVladProject\\TrezvostbVladProject.csproj|solutionrelative:trezvostbvladproject\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Views\\ALex\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrezvostbVladProject\\Views\\ALex\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Views\\ALex\\Index.cshtml*",
+              "RelativeToolTip": "TrezvostbVladProject\\Views\\ALex\\Index.cshtml*",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAQwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T21:18:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Content\\Site.css",
+              "RelativeDocumentMoniker": "TrezvostbVladProject\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Content\\Site.css",
+              "RelativeToolTip": "TrezvostbVladProject\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-11T21:10:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationInsights.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\ApplicationInsights.config",
+              "RelativeDocumentMoniker": "TrezvostbVladProject\\ApplicationInsights.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\ApplicationInsights.config",
+              "RelativeToolTip": "TrezvostbVladProject\\ApplicationInsights.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-11T20:02:30.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ALexController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Controllers\\ALexController.cs",
+              "RelativeDocumentMoniker": "TrezvostbVladProject\\Controllers\\ALexController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Controllers\\ALexController.cs",
+              "RelativeToolTip": "TrezvostbVladProject\\Controllers\\ALexController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:13:08.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TrezvostbVladProject\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TrezvostbVladProject\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:36:50.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Views\\web.config",
+              "RelativeDocumentMoniker": "TrezvostbVladProject\\Views\\web.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Trezvostb1\\TrezvostbVladProject\\Views\\web.config",
+              "RelativeToolTip": "TrezvostbVladProject\\Views\\web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-11T18:36:37.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
